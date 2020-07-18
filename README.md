@@ -8,3 +8,5 @@ Line 1 added from local
 Line 2 added from local
 
 Line 3 added from local
+
+I must not fear.
