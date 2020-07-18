@@ -10,3 +10,5 @@ Line 2 added from local
 Line 3 added from local
 
 I must not fear.
+
+Fear is the mind-killer.
