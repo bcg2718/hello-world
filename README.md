@@ -24,3 +24,5 @@ And when it has gone past I will turn the inner eye to see its path.
 Where the fear has gone there will be nothing.
 
 Only I will remain.
+
+What is the nature of truth and knowledge?
