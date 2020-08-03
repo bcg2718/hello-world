@@ -30,3 +30,4 @@ Logical fallacies:
 Agrument from consequences: p is not true because you value q, p is not false because you fear q.
 
 Straw man: attacking the argument's ugly cousin says nothing about the orignal argument.
+
