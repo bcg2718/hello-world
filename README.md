@@ -31,3 +31,5 @@ Agrument from consequences: p is not true because you value q, p is not false be
 
 Straw man: attacking the argument's ugly cousin says nothing about the orignal argument.
 
+Equivocation: assuming a repeated phrase must have identical meaning
+
